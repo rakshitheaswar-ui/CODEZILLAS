@@ -23,6 +23,7 @@ Intelligent Chatbot
 Ask questions about data, models, and get contextual assistance
 Multi-Model Support
 Choose from LightGBM, XGBoost, and Prophet models
+
 Quick Start Guide
 Configure Settings: Use the sidebar to select date range, items, stores, and model
 Generate Forecast: Click the 'Generate Forecast' button to create predictions
